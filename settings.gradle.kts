@@ -17,3 +17,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "ShopSphere"
 include(":app")
+
+
